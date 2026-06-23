@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Saroni 👋
 
-<!--
-**saronisrepo/saronisrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 3 years of experience building scalable APIs, authentication systems, RBAC platforms, and cloud integrations.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Python
+- FastAPI
+- Flask
+- Node.js
+
+### Database
+- PostgreSQL
+- MongoDB
+- Redis
+
+### DevOps
+- Docker
+- Azure DevOps
+- GitHub Actions
+
+### Authentication & Security
+- JWT
+- RBAC
+- OAuth
+
+## 🔥 Featured Projects
+
+### RBAC Platform
+Multi-tenant authorization platform supporting dynamic roles, policies, and permissions.
+
+### LiveKit Video Platform
+Real-time video conferencing platform using FastAPI, React, and LiveKit.
+
+### Multi-Cloud Storage Library
+Unified storage abstraction layer for AWS S3, Azure Blob, GCP Storage, and MinIO.
+
+### Microsoft Calendar Integration
+Microsoft Graph API integration for scheduling and availability management.
+
+## 📫 Contact
+
+- LinkedIn: (Add your LinkedIn URL)
+- Email: (Add your personal email)
