@@ -25,21 +25,29 @@ Backend Engineer with 3 years of experience building scalable APIs, authenticati
 - RBAC
 - OAuth
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### RBAC Platform
-Multi-tenant authorization platform supporting dynamic roles, policies, and permissions.
+### RBAC Platform (https://github.com/saronisrepo/rbac-platform)
+Multi-tenant authorization platform supporting:
+- Roles
+- Policies
+- Permissions
+- JWT Authentication
+- Dynamic Configuration
 
-### LiveKit Video Platform
-Real-time video conferencing platform using FastAPI, React, and LiveKit.
+### LiveKit Video Platform (https://github.com/saronisrepo/livekit-fastapi-platform)
+Real-time video conferencing platform with:
+- Audio & Video
+- Chat
+- Role-based Access
+- FastAPI Backend
 
-### Multi-Cloud Storage Library
-Unified storage abstraction layer for AWS S3, Azure Blob, GCP Storage, and MinIO.
+### Multi-Cloud Storage Library (https://github.com/saronisrepo/multi-cloud-storage-library)
+Unified storage abstraction layer supporting:
+- AWS S3
+- Azure Blob Storage
+- GCP Storage
+- MinIO
 
 ### Microsoft Calendar Integration
-Microsoft Graph API integration for scheduling and availability management.
-
-## 📫 Contact
-
-- LinkedIn: (Add your LinkedIn URL)
-- Email: (Add your personal email)
+Calendar scheduling and availability management using Microsoft Graph API.
